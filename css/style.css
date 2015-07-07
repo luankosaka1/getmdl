@@ -1,0 +1,36 @@
+body {
+    background-color: #eee;
+}
+
+.layout-transparent {
+    background: #ddd;
+}
+
+.page-content {
+    margin-top: 60px;
+}
+
+.me-card-share-background-image {
+    background-size: 100%;
+    background-position: center center;
+    background-image: url('http://www.smartt.com/sites/default/files/public/twitter_logo_banner_12.jpg');
+}
+
+.me-card-info-background-image {
+    background-size: 100%;
+    background-position: center center;
+    background-image: url('http://www.rockims.com/images/banner3.jpg');
+}
+
+.me-card-info-background-image .mdl-card__title-text {
+    color: #FFF;
+}
+
+ul.me-ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul.me-ul li {
+    border-bottom: 1px solid #CCC;
+}
